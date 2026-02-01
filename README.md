@@ -125,6 +125,7 @@ Please report any Gitpod bugs, questions, or suggestions in issue
 [#2772](https://github.com/badges/shields/issues/2772).
 
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fshields.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fshields?ref=badge_shield)
 
 [Snapshot tests][] ensure we don't inadvertently make changes that affect the
 SVG or JSON output. When deliberately changing the output, run
@@ -226,6 +227,9 @@ domain unless specified otherwise.
 
 The assets in `logo/` are trademarks of their respective companies and are
 under their terms and license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fshields.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fshields?ref=badge_large)
 
 ## Community
 
